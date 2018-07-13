@@ -1,0 +1,32 @@
+﻿  Source.cpp
+D:\opencv\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\opencv\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\opencv\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\opencv\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Source.cpp(55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(182): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(183): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(184): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(185): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(186): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(187): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(188): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(189): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(190): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(205): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  67 of 430 functions (15.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  annDigits.vcxproj -> D:\bjznworkspace\keyword\machineLearning\annDigits\x64\Release\annDigits.exe
+  annDigits.vcxproj -> D:\bjznworkspace\keyword\machineLearning\annDigits\x64\Release\annDigits.pdb (Full PDB)
